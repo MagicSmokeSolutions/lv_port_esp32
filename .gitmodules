@@ -4,7 +4,8 @@
 	branch = release/v7
 [submodule "components/lvgl_esp32_drivers"]
 	path = components/lvgl_esp32_drivers
-	url = https://github.com/lvgl/lvgl_esp32_drivers.git
+	url = https://github.com/MagicSmokeSolutions/lvgl_esp32_drivers.git
+	branch = MagicSmoke
 [submodule "components/lvgl"]
 	path = components/lvgl
 	url = https://github.com/lvgl/lvgl.git
